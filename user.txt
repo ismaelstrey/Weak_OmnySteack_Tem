@@ -1,0 +1,6 @@
+User: ismaelstrey
+Password: PHJ8J9t9UNxa3ZcR
+
+URL: mongodb+srv://ismaelstrey:PHJ8J9t9UNxa3ZcR@cluster0-td9af.mongodb.net/week10?retryWrites=true&w=majority
+
+-29.577144, -50.782755
