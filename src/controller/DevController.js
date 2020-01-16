@@ -35,6 +35,7 @@ module.exports = {
             console.log(name, avatar_url, bio, github_username, techs, location)
             dev = await Dev.create({
                 github_username,
+                avatar_url,
                 name,
                 bio,
                 techs: techsArray,
